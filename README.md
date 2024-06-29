@@ -44,3 +44,10 @@ valor acima de 5%)
 de tendência que pode substituir as notas nulas. Média, moda ou
 mediana? Substitua o valor por todos os três e diga qual delas altera
 menos a média geral e o desvio padrão.
+
+# Sugestões:
+  - Abra o arquivo .ipynb com google colab (isso evitará alguma necessidade de instalação de programas adicionais)
+  - Anexe o arquivo dos dados junto ao arquivo .ipynb para só depois iniciar a leitura dos códigos. 
+  - Rode as células nas sequências aos quais elas foram escritas.
+  - Faz parte do desafio manipular um arquivo .json, mas isso não será um problema pois no código existe uma célular exclusiva para tal. 
+
